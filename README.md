@@ -4,7 +4,7 @@
 
 
 ### Glad to see you here!  
-Dear developers on GitHub:
+Dear GitHub developers:
 
 Hello everyone! I am UopyTechSpeak, a junior high school student from China. During my time in programming, I have developed a strong interest in HarmonyOS development and have been persistently studying the principles behind it.
 
